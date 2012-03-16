@@ -1,5 +1,5 @@
-node-jscoverage (0.1-1) unstable; urgency=low
+node-jscoverage (0.1-1) lucid; urgency=low
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release 
 
- -- root <root@unknown>  Fri, 16 Mar 2012 06:56:35 +0000
+ -- Ryan Lewon <ryan.lewon@rackspace.com>  Fri, 16 Mar 2012 06:56:35 +0000
