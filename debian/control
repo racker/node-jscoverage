@@ -1,0 +1,12 @@
+Source: node-jscoverage
+Section: unknown
+Priority: extra
+Maintainer: Ryan Lewon <ryan.lewon@rackspace.com> 
+Build-Depends: debhelper (>= 7), autotools-dev
+Standards-Version: 3.8.3
+Homepage: http://rackspace.com
+
+Package: node-jscoverage
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: node jscoverage 

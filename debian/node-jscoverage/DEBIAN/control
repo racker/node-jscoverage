@@ -1,0 +1,10 @@
+Package: node-jscoverage
+Version: 0.1-1
+Architecture: amd64
+Maintainer: Ryan Lewon <ryan.lewon@rackspace.com>
+Installed-Size: 1568
+Depends: libc6 (>= 2.8), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+Section: unknown
+Priority: extra
+Homepage: http://rackspace.com
+Description: node jscoverage
